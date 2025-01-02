@@ -40,6 +40,14 @@ export default {
       screens: {
         xs: "420px",
       },
+      fontFamily: {
+        inter: ["var(--font-inter)", "Inter", "sans-serif"],
+        "space-grotesk": [
+          "var(--font-space-grotesk)",
+          "Space Grotesk",
+          "sans-serif",
+        ],
+      },
     },
   },
   plugins: [],
